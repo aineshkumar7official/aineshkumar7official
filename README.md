@@ -2,7 +2,7 @@
 
 USF | B.S. Computer Science & Business, FinTech | Class of 2030
 
-Aspiring software engineer interested in fields of edtech, aviation, and fintech. 
+CS + Business student building toward product roles in aviation and fintech
 
 ## Projects
 - **[python-calculator](https://github.com/aineshkumar7official/python-calculator)**: CLI calculator with order of operations (shunting-yard algorithm)
